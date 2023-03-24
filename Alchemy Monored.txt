@@ -1,0 +1,25 @@
+Deck
+4 Monastery Swiftspear (BRO) 144
+15 Mountain (BRO) 275
+4 Kumano Faces Kakkazan (NEO) 152
+4 Tiefling Outcasts (HBG) 61
+4 Big Spender (Y22) 10
+4 Molten Impact (Y22) 22
+3 Thundering Raiju (NEO) 166
+3 Lightning Strike (DMU) 137
+3 Ambergris, Citadel Agent (HBG) 12
+3 Play with Fire (MID) 154
+2 Traumatic Prank (Y22) 12
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Mishra's Foundry (BRO) 265
+2 Mirrex (ONE) 254
+4 Bloodthirsty Adversary (MID) 129
+
+Sideboard
+2 Traumatic Prank (Y22) 12
+2 Chandra, Dressed to Kill (VOW) 149
+2 Squee, Dubious Monarch (DMU) 146
+1 Fable of the Mirror-Breaker (NEO) 141
+3 Fable of the Mirror-Breaker (NEO) 141
+2 Brittle Blast (Y22) 37
+3 Feldon, Ronom Excavator (BRO) 135

@@ -1,0 +1,28 @@
+Deck
+2 Arlinn, the Pack's Hope (MID) 211
+2 A-Minsc & Boo, Timeless Heroes (HBG) 243
+4 Tenacious Pup (Y22) 56
+4 Kessig Naturalist (MID) 231
+4 Rahilda, Wanted Cutthroat (Y22) 42
+4 Reckless Stormseeker (MID) 157
+4 Tovolar, Dire Overlord (MID) 246
+2 Halana and Alena, Partners (VOW) 239
+4 Molten Impact (Y22) 22
+4 Kumano Faces Kakkazan (NEO) 152
+5 Forest (MIR) 347
+3 Mountain (MIR) 346
+4 Karplusan Forest (DMU) 250
+4 Rockfall Vale (MID) 266
+4 Forsaken Crossroads (Y22) 63
+2 Sokenzan, Crucible of Defiance (NEO) 276
+2 Boseiju, Who Endures (NEO) 266
+2 Ascendant Packleader (VOW) 186
+
+Sideboard
+1 Arlinn, the Pack's Hope (MID) 211
+1 A-Minsc & Boo, Timeless Heroes (HBG) 243
+4 Outland Liberator (MID) 190
+1 Tamiyo's Safekeeping (NEO) 211
+3 Tamiyo's Safekeeping (NEO) 211
+2 Moonrager's Slash (MID) 148
+3 Brittle Blast (Y22) 37

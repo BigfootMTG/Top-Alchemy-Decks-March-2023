@@ -1,0 +1,23 @@
+Deck
+4 Yotian Frontliner (BRO) 42
+4 Recruitment Officer (BRO) 23
+4 Guardian of New Benalia (DMU) 19
+4 Valiant Veteran (DMU) 38
+3 Thalia, Guardian of Thraben (DKA) 24
+1 Thalia, Guardian of Thraben (VOW) 38
+4 Siege Veteran (BRO) 25
+4 Brutal Cathar (MID) 7
+2 Myrel, Shield of Argive (BRO) 18
+4 Lay Down Arms (BRO) 11
+3 By Elspeth's Command (Y23) 1
+19 Plains (MIR) 331
+3 Mishra's Foundry (BRO) 265
+1 Eiganjo, Seat of the Empire (NEO) 268
+
+Sideboard
+3 Lae'zel, Githyanki Warrior (HBG) 2
+2 Captain Eberhart (Y22) 3
+2 Cathar Commando (MID) 10
+4 Anointed Peacekeeper (DMU) 2
+2 Destroy Evil (DMU) 17
+2 Lion Sash (NEO) 26

@@ -1,0 +1,38 @@
+Deck
+4 Bloodtithe Harvester (VOW) 232
+3 Crucias, Titan of the Waves (Y23) 18
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Jarsyl, Dark Age Scion (Y23) 20
+3 Sheoldred, the Apocalypse (DMU) 107
+2 Mishra's Research Desk (BRO) 162
+2 Cut Down (DMU) 89
+3 Go for the Throat (BRO) 102
+1 Kayla's Kindling (Y23) 9
+2 Unleash the Inferno (SNC) 229
+4 Invoke Despair (NEO) 101
+1 Forest (MIR) 347
+1 Swamp (MIR) 340
+1 Mountain (MIR) 346
+2 Sulfurous Springs (DMU) 256
+2 Llanowar Wastes (BRO) 264
+4 Haunted Ridge (MID) 263
+2 Deathcap Glade (VOW) 261
+1 Takenuma, Abandoned Mire (NEO) 278
+2 Forsaken Crossroads (Y22) 63
+4 Ziatora's Proving Ground (SNC) 261
+2 Molten Impact (Y22) 22
+2 Dreams of Steel and Oil (BRO) 92
+2 Copperline Gorge (ONE) 249
+2 Blackcleave Cliffs (ONE) 248
+1 Rockfall Vale (MID) 266
+
+Sideboard
+1 Abrade (VOW) 139
+1 Unlicensed Hearse (SNC) 246
+4 Duress (ONE) 92
+1 Molten Impact (Y22) 22
+1 Abrade (VOW) 139
+3 Liliana of the Veil (DMU) 97
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Unleash the Inferno (SNC) 229
+2 Gix's Command (BRO) 97

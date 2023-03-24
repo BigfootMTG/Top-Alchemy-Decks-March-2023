@@ -1,0 +1,23 @@
+Deck
+4 Evolved Sleeper (DMU) 93
+3 Gix, Yawgmoth Praetor (BRO) 95
+2 Sheoldred, the Apocalypse (DMU) 107
+4 Phyrexian Fleshgorger (BRO) 121
+4 Cut Down (DMU) 89
+4 Go for the Throat (BRO) 102
+21 Swamp (MIR) 340
+4 Mishra's Foundry (BRO) 265
+2 Tenacious Underdog (SNC) 97
+2 Sanguine Brushstroke (Y22) 32
+4 Invoke Despair (NEO) 101
+3 March Toward Perfection (Y23) 9
+3 Viconia, Nightsinger's Disciple (HBG) 11
+
+Sideboard
+3 Razorlash Transmogrant (BRO) 122
+2 Duress (M20) 97
+2 Unlicensed Hearse (SNC) 246
+2 Graveyard Trespasser (MID) 104
+2 Liliana of the Veil (DMU) 97
+2 Sheoldred, the Apocalypse (DMU) 107
+2 Gix's Command (BRO) 97

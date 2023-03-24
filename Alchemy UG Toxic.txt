@@ -1,0 +1,31 @@
+Deck
+4 Phyresis Roach (Y23) 15
+4 Venerated Rotpriest (ONE) 192
+4 Skullpiercer Gnat (Y23) 28
+4 Bloated Contaminator (ONE) 159
+2 Quicksilver Servitor (Y23) 5
+4 Aspirant's Ascent (ONE) 40
+2 Slip Out the Back (SNC) 62
+2 Tail Swipe (DMU) 182
+2 Bring the Ending (ONE) 44
+4 Serum Snare (ONE) 68
+2 Sinister Reflections (Y22) 22
+4 Forest (MIR) 347
+3 Island (MIR) 336
+3 Yavimaya Coast (DMU) 261
+4 Dreamroot Cascade (VOW) 262
+1 Boseiju, Who Endures (NEO) 266
+1 Otawara, Soaring City (NEO) 271
+4 Forsaken Crossroads (Y22) 63
+3 The Seedcore (ONE) 259
+2 Infectious Bite (ONE) 172
+1 Contagion Dispenser (Y23) 19
+
+Sideboard
+2 Slip Out the Back (SNC) 62
+3 You Line Up the Shot (HBG) 70
+2 Bouncer's Beatdown (SNC) 135
+1 Bouncer's Beatdown (SNC) 135
+3 Soulless Jailer (ONE) 241
+2 Mirrex (ONE) 254
+2 Tyvar's Stand (ONE) 190

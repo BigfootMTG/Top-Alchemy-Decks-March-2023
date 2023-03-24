@@ -1,0 +1,40 @@
+Deck
+2 Viconia, Nightsinger's Disciple (HBG) 11
+3 Corpse Appraiser (SNC) 178
+4 Crucias, Titan of the Waves (Y23) 18
+4 Fable of the Mirror-Breaker (NEO) 141
+1 Citystalker Connoisseur (Y22) 27
+2 Rusko, Clockmaker (Y23) 24
+2 Sheoldred, the Apocalypse (DMU) 107
+1 The Hourglass Coven (HBG) 45
+2 Abrade (VOW) 139
+1 Bind to Secrecy (Y22) 19
+4 Go for the Throat (BRO) 102
+3 Make Disappear (SNC) 49
+3 Invoke Despair (NEO) 101
+3 Swamp (MIR) 340
+2 Sulfurous Springs (DMU) 256
+1 Underground River (BRO) 267
+2 Darkslick Shores (ONE) 250
+2 Blackcleave Cliffs (ONE) 248
+4 Haunted Ridge (MID) 263
+3 Shipwreck Marsh (MID) 267
+1 Stormcarved Coast (VOW) 265
+1 Otawara, Soaring City (NEO) 271
+1 Takenuma, Abandoned Mire (NEO) 278
+2 Forsaken Crossroads (Y22) 63
+4 Xander's Lounge (SNC) 260
+2 Molten Impact (Y22) 22
+
+Sideboard
+1 Molten Impact (Y22) 22
+4 Siphon Insight (MID) 241
+2 Undercity Plunder (Y22) 15
+1 Undercity Plunder (Y22) 15
+1 Unlicensed Hearse (SNC) 246
+1 Brotherhood's End (BRO) 128
+1 Citystalker Connoisseur (Y22) 27
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Tasha, Unholy Archmage (HBG) 75
+2 Abrade (AKR) 136
+

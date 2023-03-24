@@ -1,0 +1,28 @@
+Deck
+4 Lunarch Veteran (MID) 27
+6 Plains (SIR) 279
+4 Trelasarra, Moon Dancer (HBG) 251
+5 Forest (SIR) 291
+4 Inquisitor Captain (Y22) 8
+4 Voice of the Blessed (VOW) 44
+4 Brutal Cathar (MID) 7
+4 Prosperous Innkeeper (HBG) 221
+2 Rope Line Attendant (Y22) 27
+2 Skrelv, Defector Mite (ONE) 33
+3 Patriar's Humiliation (HBG) 25
+3 Gala Greeters (SNC) 148
+2 Augur of Autumn (MID) 168
+4 Overgrown Farmland (MID) 265
+4 Razorverge Thicket (ONE) 257
+3 Brushland (BRO) 259
+2 Jetmir's Garden (SNC) 250
+
+Sideboard
+2 Haywire Mite (BRO) 199
+3 Loran of the Third Path (BRO) 12
+2 Rasaad, Monk of Selûne (HBG) 4
+3 Unlicensed Hearse (SNC) 246
+2 Portable Hole (HBG) 98
+1 Ascend from Avernus (HBG) 84
+1 Patriar's Humiliation (HBG) 25
+1 Torens, Fist of the Angels (VOW) 249

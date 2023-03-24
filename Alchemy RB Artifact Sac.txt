@@ -1,0 +1,31 @@
+Deck
+1 Voltage Surge (NEO) 171
+7 Swamp (HBG) 300
+4 Mishra's Research Desk (BRO) 162
+4 Oni-Cult Anvil (NEO) 230
+3 Mountain (HBG) 304
+3 Deadly Dispute (AFR) 94
+4 Bloodtithe Harvester (VOW) 232
+4 Go for the Throat (BRO) 102
+2 Sheoldred, the Apocalypse (DMU) 107
+2 Invoke Despair (NEO) 101
+4 Sanguine Brushstroke (Y22) 32
+4 Forsaken Crossroads (Y22) 63
+4 Sulfurous Springs (DMU) 256
+4 Haunted Ridge (MID) 263
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Crucias, Titan of the Waves (Y23) 18
+
+Sideboard
+2 Abrade (VOW) 139
+1 Voltage Surge (NEO) 171
+1 Unlicensed Hearse (SNC) 246
+2 Ob Nixilis, the Adversary (SNC) 206
+1 Sheoldred, the Apocalypse (DMU) 107
+3 Brotherhood's End (BRO) 128
+1 Voltage Surge (NEO) 171
+2 Unlicensed Hearse (SNC) 246
+1 Invoke Despair (NEO) 101
+1 Sheoldred, the Apocalypse (DMU) 107
